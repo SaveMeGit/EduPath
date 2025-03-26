@@ -23,7 +23,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_for_testing/screens/login_screen_with_otp.dart';
+import 'package:flutter_edu_path/screens/login_screen_with_otp.dart';
 
 class VerificationScreen extends StatelessWidget {
   final String phoneNumber;

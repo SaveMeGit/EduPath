@@ -82,7 +82,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_for_testing/screens/home_screen.dart';
+import 'package:flutter_edu_path/screens/home_screen.dart';
 
 class LoginScreenWithOtp extends StatefulWidget {
   const LoginScreenWithOtp({super.key});

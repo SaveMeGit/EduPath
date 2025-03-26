@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_for_testing/screens/home_school_screen.dart';
+import 'package:flutter_edu_path/screens/home_school_screen.dart';
 import 'settings_screen.dart';
 import 'home_screen.dart';
 
